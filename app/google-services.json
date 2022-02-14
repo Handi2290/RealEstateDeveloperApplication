@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "429862503649",
+    "firebase_url": "https://real-estate-e3ccb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "real-estate-e3ccb",
+    "storage_bucket": "real-estate-e3ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429862503649:android:92eaa10f0e4b81be9463a0",
+        "android_client_info": {
+          "package_name": "com.example.realestatedeveloperapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429862503649-b5op1ku6msbjl85b01j1lpum177amqvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN_R4cUqfXFfQ8qCY8IySW15ljnUA0Kyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429862503649-b5op1ku6msbjl85b01j1lpum177amqvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429862503649:android:f0a84e39fb64f8069463a0",
+        "android_client_info": {
+          "package_name": "com.hk.realestate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429862503649-b5op1ku6msbjl85b01j1lpum177amqvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN_R4cUqfXFfQ8qCY8IySW15ljnUA0Kyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429862503649-b5op1ku6msbjl85b01j1lpum177amqvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
